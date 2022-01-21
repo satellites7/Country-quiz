@@ -8,7 +8,7 @@ Country-quiz
 
 <div align="center">
   <h3>
-    <a href="https://random-quote-generator-rose.vercel.app/">
+    <a href="https://country-quiz-rose.vercel.app/">
       Demo
     </a>
     <span> | </span>
@@ -28,7 +28,7 @@ Country-quiz
 
 ## Overview
 
-![screenshot](https://github.com/satellites7/image/blob/main/random-quote-generator-rose.vercel.app_%20(1).png)
+![screenshot](https://github.com/satellites7/image/blob/main/country-quiz.png)
 
 
 
