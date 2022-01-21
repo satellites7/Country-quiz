@@ -39,6 +39,5 @@ Country-quiz
 - [React](https://reactjs.org/)
 - [styled-components](https://styled-components.com/)
 - [Next.js](https://nextjs.org/)
-- 
 
 
